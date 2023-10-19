@@ -1,0 +1,72 @@
+export const Data =[
+    {
+    "id":1,
+    "name":"carro",
+    "image":"../IMG/1.jpg"
+},
+{
+    "id":2,
+    "name":"carro",
+    "image":"../IMG/2.jpg"
+},
+{
+    "id":3,
+    "name":"carro",
+    "image":"../IMG/3.jpg"
+},
+{
+    "id":4,
+    "name":"carro",
+    "image":"../IMG/4.jpg"
+},
+{
+    "id":5,
+    "name":"carro",
+    "image":"../IMG/5.jpg"
+},
+{
+    "id":6,
+    "name":"carro",
+    "image":"../IMG/6.jpg"
+},
+{
+    "id":7,
+    "name":"carro",
+    "image":"../IMG/7.jpg"
+},
+{
+    "id":8,
+    "name":"carro",
+    "image":"../IMG/8.jpg"
+},
+{
+    "id":9,
+    "name":"carro",
+    "image":"../IMG/9.jpg"
+},
+{
+    "id":10,
+    "name":"carro",
+    "image":"../IMG/10.jpg"
+},{
+    "id":11,
+    "name":"carro",
+    "image":"../IMG/11.jpg"
+},{
+    "id":12,
+    "name":"carro",
+    "image":"../IMG/12.jpg"
+},{
+    "id":13,
+    "name":"carro",
+    "image":"../IMG/13.jpg"
+},{
+    "id":14,
+    "name":"carro",
+    "image":"../IMG/14.jpg"
+},{
+    "id":15,
+    "name":"carro",
+    "image":"../IMG/15.jpg"
+},
+]
